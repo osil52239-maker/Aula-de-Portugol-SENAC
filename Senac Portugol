@@ -1,0 +1,27 @@
+programa {
+  funcao inicio() {
+    //declaraçao de variaveis
+    //tipo_da_variavel nomeVariavel
+    //inteiro ==> numeros inteiros: 1 100 10000 347
+    //real ==> numeros com casa decimal: 0.1 0.333 1456.27
+    //carcter ==> aceita somente UMA letra: 1 a A Z b 8 @
+    //cadeia ==> recebe texto e numeros (que nao podem ser usados em contas!)
+    //ATRIBUÇAO DE VALORES A VARIAVEIS:
+    //inteiro num = 0
+    //variavel num recebe 0
+    //nesta linha e atribuido o valor 0 a variavel num
+    //OPERADORES MATEMATICOS:
+    //0-)() tem prioridade de resolver o que esta dentro
+    //1-)* vezez e / dividir e % mod (divide mas retorna o RESTO)
+    //2-)+ somar e - subtrair
+    //(2+3)*2 = 10 | 2+3*2 = 8  
+  }
+}
+
+
+variaveis:
+inteiro: Guarda números sem partes quebradas, como 10 ou -5.
+real: Guarda números com pontos decimais, como 5.5 ou -2.0.
+cadeia: Guarda textos ou palavras entre aspas, como "Olá".
+caracter: Guarda apenas uma letra ou símbolo entre aspas simples, como 'a'.
+lógico: Guarda apenas valores de verdadeiro ou falso (verdadeiro / falso).
