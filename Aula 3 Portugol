@@ -1,0 +1,25 @@
+programa {
+  funcao inicio() {
+    //COMO FUNCIONA O SE
+    //vamos receber um numero inteiro num
+    //operadores: == | > | < | >= | <= | !=
+    // igual | maior que | menor que | maior ou igual | menor ou igual | igual
+    inteiro num = 15
+
+    se(num <= 10){
+      
+      //o codigo aqui dentro so e executado 
+      //se e somente se a condiçao for verdadeira.
+  
+      escreva("bloco de codigo do se\n")
+      escreva("e executado quando a condiçao for verdadeira\n")
+      escreva("O numero e menor ou igual que 10\n")
+  }senao{
+     
+      escreva("bloco de codigo do se\n")
+      escreva("e executado quando a condiçao for falsa\n")
+      escreva("O numero e maior que 10\n")
+  }
+  escreva("Este codigo SEMPRE SERA EXECUTADO\n")
+ }
+}
