@@ -1,0 +1,19 @@
+programa {
+  funcao inicio() {
+    //escrever um programa que recebe a idade e o tempo de contribuiçao
+    //e avalia se pode se aposentar
+    //idade >= 65 ou tempo >= 35
+    //se (cond1 ou cond2){} entra se cond1 ou cond1 for vdd
+    //se (cond1 e cond2){}entra apenas se cond1 e cond2 for vdd
+    inteiro idade, tempo
+
+    escreva("digite a idade ")
+    leia(idade)
+    escreva("digite o tempo ")
+    leia(tempo)
+    se (idade >=65 ou tempo >= 35)
+    escreva("")
+   
+  
+  }
+}
